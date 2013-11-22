@@ -1,3 +1,5 @@
+[![Built with Grunt!](https://grunt-badge.herokuapp.com/built-with-grunt.png)](http://gruntjs.com)
+
 KINDLE WRAPPER
 ==============
 
