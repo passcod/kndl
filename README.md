@@ -3,6 +3,8 @@
 KINDLE WRAPPER
 ==============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/passcod/kndl.svg)](https://greenkeeper.io/)
+
 ![Screenshot](http://i.imgur.com/PU2y582.png)
 
 Uses node-webkit to provide a single-purpose window
